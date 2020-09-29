@@ -1,0 +1,22 @@
+C:\Users\rsirota\AppData\Local\Temporary Projects\Calculator 2\bin\Debug\Calculator 2.exe
+C:\Users\rsirota\AppData\Local\Temporary Projects\Calculator 2\bin\Debug\Calculator 2.pdb
+C:\Users\rsirota\AppData\Local\Temporary Projects\Calculator 2\bin\Debug\Calculator 2.xml
+C:\Users\rsirota\AppData\Local\Temporary Projects\Calculator 2\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\rsirota\AppData\Local\Temporary Projects\Calculator 2\obj\x86\Debug\Calculator_2.Form1.resources
+C:\Users\rsirota\AppData\Local\Temporary Projects\Calculator 2\obj\x86\Debug\Calculator_2.Resources.resources
+C:\Users\rsirota\AppData\Local\Temporary Projects\Calculator 2\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\rsirota\AppData\Local\Temporary Projects\Calculator 2\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\rsirota\AppData\Local\Temporary Projects\Calculator 2\obj\x86\Debug\Calculator 2.exe
+C:\Users\rsirota\AppData\Local\Temporary Projects\Calculator 2\obj\x86\Debug\Calculator 2.xml
+C:\Users\rsirota\AppData\Local\Temporary Projects\Calculator 2\obj\x86\Debug\Calculator 2.pdb
+\\wfs1\home\2015\rsirota\Documents\VB\Calculator 2\Calculator 2\obj\x86\Debug\Calculator 2.exe
+\\wfs1\home\2015\rsirota\Documents\VB\Calculator 2\Calculator 2\obj\x86\Debug\Calculator 2.xml
+\\wfs1\home\2015\rsirota\Documents\VB\Calculator 2\Calculator 2\obj\x86\Debug\Calculator 2.pdb
+\\wfs1\home\2015\rsirota\Documents\VB\Calculator 2\Calculator 2\bin\Debug\Calculator 2.exe
+\\wfs1\home\2015\rsirota\Documents\VB\Calculator 2\Calculator 2\bin\Debug\Calculator 2.pdb
+\\wfs1\home\2015\rsirota\Documents\VB\Calculator 2\Calculator 2\bin\Debug\Calculator 2.xml
+\\wfs1\home\2015\rsirota\Documents\VB\Calculator 2\Calculator 2\obj\x86\Debug\ResolveAssemblyReference.cache
+\\wfs1\home\2015\rsirota\Documents\VB\Calculator 2\Calculator 2\obj\x86\Debug\Calculator_2.Form1.resources
+\\wfs1\home\2015\rsirota\Documents\VB\Calculator 2\Calculator 2\obj\x86\Debug\Calculator_2.Resources.resources
+\\wfs1\home\2015\rsirota\Documents\VB\Calculator 2\Calculator 2\obj\x86\Debug\GenerateResource.read.1.tlog
+\\wfs1\home\2015\rsirota\Documents\VB\Calculator 2\Calculator 2\obj\x86\Debug\GenerateResource.write.1.tlog
