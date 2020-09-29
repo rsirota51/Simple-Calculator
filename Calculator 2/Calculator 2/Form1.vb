@@ -1,6 +1,5 @@
 ﻿Public Class Form1
     'Robert Sirota
-    '4/22/14
     Dim operand1 As Double = 0
     Dim operand2 As Double = 0
     Dim op As String = Nothing
